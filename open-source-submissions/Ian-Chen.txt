@@ -1,0 +1,16 @@
+What is the URL of your repository?
+https://github.com/philosopherian/APCSP-Final-Project-Game
+
+What programming languages did you use to build this program?
+Mostly Javascript but with some help from other coding language specifically working with the graphic controls.
+
+How did you test your program? Describe your testing process in detail.
+The GameMaker Studio has a built-in program testing function to allow debugging and previewing the game.
+After debugging in the GameMaker, the exported game file can also be modified using visual studio and other code editor to do further testing.
+
+What is ONE piece of user feedback you got that was most valuable in improving your program?
+Most users reflected that the keyboard control is more effective when using "WASD" to control motion, not up-down-left-right.
+
+Your code is open source. Explain ONE way you hope someone will use your program code.
+Everyone can copy the game file, modify the contents (for example, change the sprites or add more background effects), and post their own version of this game.
+They can also see how the game works to gain inspiration about their own projects.
